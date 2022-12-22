@@ -30,5 +30,6 @@ public class EasyMode {
                 System.out.println(a + " and " + b + " - are NOT Anagram.");
             }
         }
+        scanner.close();
     }
 }
