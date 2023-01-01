@@ -1,4 +1,9 @@
-# Linux Commands for K8s from Civo/academy.
+# Resource:- Civo/academy
+# 1-Monolithic Vs Microservices
+# 2-Introduction to Containers
+# 3-Containers Vs VMs
+# 4-Docker Volumes
+# 5-Linux Commands for K8s :
   - ls         :     List information about the files.
 
   - mkdir      :     Creating new directory.
