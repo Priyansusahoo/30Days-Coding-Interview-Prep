@@ -1,0 +1,14 @@
+# 12-Day Tasks:
+- 6 GeeksForGeeks coding questions
+- DBMS Questions:
+  - Types
+  - SQL Statement
+  - Foreign Key
+  - Primary Key Vs Unique Key
+  - DELETE Vs DROP Vs TRUNCATE
+  - Different types of language in DBMS:
+    - DDL
+    - DML
+    - DQL
+    - DCL
+  - UNION Vs UNION ALL
